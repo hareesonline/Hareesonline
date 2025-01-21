@@ -1,0 +1,16 @@
+C:\Users\harees\source\repos\HarOddEven\bin\Debug\net8.0-windows\HarOddEven.exe
+C:\Users\harees\source\repos\HarOddEven\bin\Debug\net8.0-windows\HarOddEven.deps.json
+C:\Users\harees\source\repos\HarOddEven\bin\Debug\net8.0-windows\HarOddEven.runtimeconfig.json
+C:\Users\harees\source\repos\HarOddEven\bin\Debug\net8.0-windows\HarOddEven.dll
+C:\Users\harees\source\repos\HarOddEven\bin\Debug\net8.0-windows\HarOddEven.pdb
+C:\Users\harees\source\repos\HarOddEven\obj\Debug\net8.0-windows\HarOddEven.Form1.resources
+C:\Users\harees\source\repos\HarOddEven\obj\Debug\net8.0-windows\HarOddEven.vbproj.GenerateResource.cache
+C:\Users\harees\source\repos\HarOddEven\obj\Debug\net8.0-windows\HarOddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harees\source\repos\HarOddEven\obj\Debug\net8.0-windows\HarOddEven.AssemblyInfoInputs.cache
+C:\Users\harees\source\repos\HarOddEven\obj\Debug\net8.0-windows\HarOddEven.AssemblyInfo.vb
+C:\Users\harees\source\repos\HarOddEven\obj\Debug\net8.0-windows\HarOddEven.vbproj.CoreCompileInputs.cache
+C:\Users\harees\source\repos\HarOddEven\obj\Debug\net8.0-windows\HarOddEven.dll
+C:\Users\harees\source\repos\HarOddEven\obj\Debug\net8.0-windows\refint\HarOddEven.dll
+C:\Users\harees\source\repos\HarOddEven\obj\Debug\net8.0-windows\HarOddEven.pdb
+C:\Users\harees\source\repos\HarOddEven\obj\Debug\net8.0-windows\HarOddEven.genruntimeconfig.cache
+C:\Users\harees\source\repos\HarOddEven\obj\Debug\net8.0-windows\ref\HarOddEven.dll

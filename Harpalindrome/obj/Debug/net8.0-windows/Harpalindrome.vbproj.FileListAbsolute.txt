@@ -1,0 +1,16 @@
+C:\Users\harees\source\repos\Harpalindrome\bin\Debug\net8.0-windows\Harpalindrome.exe
+C:\Users\harees\source\repos\Harpalindrome\bin\Debug\net8.0-windows\Harpalindrome.deps.json
+C:\Users\harees\source\repos\Harpalindrome\bin\Debug\net8.0-windows\Harpalindrome.runtimeconfig.json
+C:\Users\harees\source\repos\Harpalindrome\bin\Debug\net8.0-windows\Harpalindrome.dll
+C:\Users\harees\source\repos\Harpalindrome\bin\Debug\net8.0-windows\Harpalindrome.pdb
+C:\Users\harees\source\repos\Harpalindrome\obj\Debug\net8.0-windows\Harpalindrome.Form1.resources
+C:\Users\harees\source\repos\Harpalindrome\obj\Debug\net8.0-windows\Harpalindrome.vbproj.GenerateResource.cache
+C:\Users\harees\source\repos\Harpalindrome\obj\Debug\net8.0-windows\Harpalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harees\source\repos\Harpalindrome\obj\Debug\net8.0-windows\Harpalindrome.AssemblyInfoInputs.cache
+C:\Users\harees\source\repos\Harpalindrome\obj\Debug\net8.0-windows\Harpalindrome.AssemblyInfo.vb
+C:\Users\harees\source\repos\Harpalindrome\obj\Debug\net8.0-windows\Harpalindrome.vbproj.CoreCompileInputs.cache
+C:\Users\harees\source\repos\Harpalindrome\obj\Debug\net8.0-windows\Harpalindrome.dll
+C:\Users\harees\source\repos\Harpalindrome\obj\Debug\net8.0-windows\refint\Harpalindrome.dll
+C:\Users\harees\source\repos\Harpalindrome\obj\Debug\net8.0-windows\Harpalindrome.pdb
+C:\Users\harees\source\repos\Harpalindrome\obj\Debug\net8.0-windows\Harpalindrome.genruntimeconfig.cache
+C:\Users\harees\source\repos\Harpalindrome\obj\Debug\net8.0-windows\ref\Harpalindrome.dll

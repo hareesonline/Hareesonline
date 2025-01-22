@@ -1,0 +1,42 @@
+C:\Users\ADMIN\Desktop\Barcodefull\MHBSQrcode\MHBSQrcode\bin\Debug\MHBSQrcode.exe.config
+C:\Users\ADMIN\Desktop\Barcodefull\MHBSQrcode\MHBSQrcode\bin\Debug\MHBSQrcode.exe
+C:\Users\ADMIN\Desktop\Barcodefull\MHBSQrcode\MHBSQrcode\bin\Debug\MHBSQrcode.pdb
+C:\Users\ADMIN\Desktop\Barcodefull\MHBSQrcode\MHBSQrcode\bin\Debug\MHBSQrcode.xml
+C:\Users\ADMIN\Desktop\Barcodefull\MHBSQrcode\MHBSQrcode\bin\Debug\QRCode.dll
+C:\Users\ADMIN\Desktop\Barcodefull\MHBSQrcode\MHBSQrcode\obj\Debug\MHBSQrcode.vbprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Barcodefull\MHBSQrcode\MHBSQrcode\obj\Debug\MHBSQrcode.Form1.resources
+C:\Users\ADMIN\Desktop\Barcodefull\MHBSQrcode\MHBSQrcode\obj\Debug\MHBSQrcode.Resources.resources
+C:\Users\ADMIN\Desktop\Barcodefull\MHBSQrcode\MHBSQrcode\obj\Debug\MHBSQrcode.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\Barcodefull\MHBSQrcode\MHBSQrcode\obj\Debug\MHBSQrcode.exe
+C:\Users\ADMIN\Desktop\Barcodefull\MHBSQrcode\MHBSQrcode\obj\Debug\MHBSQrcode.xml
+C:\Users\ADMIN\Desktop\Barcodefull\MHBSQrcode\MHBSQrcode\obj\Debug\MHBSQrcode.pdb
+C:\Users\ADMIN\Desktop\Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\bin\Debug\MHBSQrcode.exe.config
+C:\Users\ADMIN\Desktop\Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.exe
+C:\Users\ADMIN\Desktop\Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.xml
+C:\Users\ADMIN\Desktop\Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.pdb
+J:\0 Barcode and Tailors\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\bin\Debug\MHBSQrcode.exe.config
+J:\0 Barcode and Tailors\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.exe
+J:\0 Barcode and Tailors\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.xml
+J:\0 Barcode and Tailors\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.pdb
+J:\0 Barcode and Tailors\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\bin\Debug\MHBSQrcode.exe
+J:\0 Barcode and Tailors\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\bin\Debug\MHBSQrcode.pdb
+J:\0 Barcode and Tailors\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\bin\Debug\MHBSQrcode.xml
+J:\0 Barcode and Tailors\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\bin\Debug\QRCode.dll
+J:\0 Barcode and Tailors\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.vbprojResolveAssemblyReference.cache
+J:\0 Barcode and Tailors\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.Form1.resources
+J:\0 Barcode and Tailors\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.Resources.resources
+J:\0 Barcode and Tailors\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.vbproj.GenerateResource.Cache
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\bin\Debug\MHBSQrcode.exe.config
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\bin\Debug\MHBSQrcode.exe
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\bin\Debug\MHBSQrcode.pdb
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\bin\Debug\MHBSQrcode.xml
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\bin\Debug\QRCode.dll
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.vbproj.AssemblyReference.cache
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.Form1.resources
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.Resources.resources
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.vbproj.GenerateResource.cache
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.vbproj.CoreCompileInputs.cache
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.vbproj.Up2Date
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.exe
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.xml
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\MHBSQrcode 10102016\MHBSQrcode\obj\Debug\MHBSQrcode.pdb

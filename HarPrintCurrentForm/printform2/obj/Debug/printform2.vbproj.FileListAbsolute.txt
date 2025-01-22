@@ -1,0 +1,42 @@
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Online Purchasing\printform2\printform2\bin\Debug\printform2.exe.config
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Online Purchasing\printform2\printform2\obj\Debug\printform2.Form1.resources
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Online Purchasing\printform2\printform2\obj\Debug\printform2.Resources.resources
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Online Purchasing\printform2\printform2\obj\Debug\printform2.vbproj.GenerateResource.Cache
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Online Purchasing\printform2\printform2\bin\Debug\printform2.exe
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Online Purchasing\printform2\printform2\bin\Debug\printform2.pdb
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Online Purchasing\printform2\printform2\bin\Debug\printform2.xml
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Online Purchasing\printform2\printform2\obj\Debug\printform2.exe
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Online Purchasing\printform2\printform2\obj\Debug\printform2.xml
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Online Purchasing\printform2\printform2\obj\Debug\printform2.pdb
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\Harees VbNET\AB3_PrintCurrentForm\printform2\bin\Debug\printform2.exe.config
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.exe
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.xml
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.pdb
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\Harees VbNET\AB3_PrintCurrentForm\printform2\bin\Debug\printform2.exe
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\Harees VbNET\AB3_PrintCurrentForm\printform2\bin\Debug\printform2.pdb
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\Harees VbNET\AB3_PrintCurrentForm\printform2\bin\Debug\printform2.xml
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.Form1.resources
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.Resources.resources
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.vbproj.GenerateResource.Cache
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.xml
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.pdb
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\bin\Debug\printform2.exe.config
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\bin\Debug\printform2.exe
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\bin\Debug\printform2.pdb
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\bin\Debug\printform2.xml
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.Form1.resources
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.Resources.resources
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.vbproj.GenerateResource.Cache
+C:\Users\Salwa\Documents\Visual Studio 2012\Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.exe
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\0 Harees vb Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\bin\Debug\printform2.exe.config
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\0 Harees vb Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\bin\Debug\printform2.exe
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\0 Harees vb Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\bin\Debug\printform2.pdb
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\0 Harees vb Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\bin\Debug\printform2.xml
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\0 Harees vb Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.vbproj.AssemblyReference.cache
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\0 Harees vb Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.Form1.resources
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\0 Harees vb Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.Resources.resources
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\0 Harees vb Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.vbproj.GenerateResource.cache
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\0 Harees vb Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.vbproj.CoreCompileInputs.cache
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\0 Harees vb Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.exe
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\0 Harees vb Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.xml
+E:\000 Harees BArcode\00 Harees barcode 3in1 10102016\0 Harees vb Projects\Harees NET projects\1 Harees VbNET\AB3_PrintCurrentForm\printform2\obj\Debug\printform2.pdb
